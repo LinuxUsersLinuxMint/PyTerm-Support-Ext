@@ -1,0 +1,17 @@
+; NOTE: The settings here are arranged to make the product/"PyTerm Support Extension" support plugin ready for use. 
+; You need to edit your software/product to be 100% compatible with "PyTerm".
+; If you don't know how to edit it. Visit https://linuxuserslinuxmint.github.io.
+
+[Software_Config]
+cfg_update_status=0
+cfg_update_software_name=software_name
+software_addr_type=git / web site
+software_addr=software_addr
+
+[PyTerm_User_Config]
+cfg_super_usr_status=0
+cfg_super_usr_com=os_administrator_command
+
+[PyTerm_LICENCE_Info]
+software_licence_type=LICENCE_TYPE
+software_licence_ver=VER
