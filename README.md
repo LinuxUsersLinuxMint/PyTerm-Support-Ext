@@ -21,3 +21,5 @@ How to use:
 * Step 2: Move the "PyTerm Support Extension" folder to the folder where your software/or application is located.
 * Step 3: Edit the software.cfgpt file in the ConfigsPt folder.
 * Step 4: Your software/application is now "PyTerm" supported. Now you can update your software and perform some operations using the "PyTerm" application as you wish.
+
+PyTerm: https://github.com/LinuxUsersLinuxMint/PyTerm
